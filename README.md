@@ -3,8 +3,8 @@
 This project is part of the **Advanced Computer Networks (ENCS5321)** course. It involves the design, configuration, and implementation of a complex network topology using multiple **Autonomous Systems (ASes)** with routing protocols such as **OSPF, RIP, and BGP**. The project also covers **traffic engineering, route filtering, policy-based routing, and load balancing** to optimize network performance.
 
 ## Team Members
-- **Musab Masalmah** (ID: 1200078)
-- **Abdalkarim Eiss** (ID: 1200015)
+- **Abdalkarim Eiss** (Me)
+- **Musab Masalmah**
 
 ## Instructor  
 **Dr. Imad Tartir**  
